@@ -1,5 +1,5 @@
 # Cafe Sales Data Cleaning Project
-
+Data cleaning with Python | Pandas | Kaggle Dataset | Jupyter Notebook
 ## Objective
 
 This project involves cleaning and preprocessing a real-world café sales dataset.
